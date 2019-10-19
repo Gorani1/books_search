@@ -7,6 +7,7 @@ import Footer from "../components/Footer";
 import API from "../utils/api.js";
 import { Col, Row, Container } from "../components/Grid";
 import { List } from "../components/List";
+import "./Home.css";
 
 class Home extends Component {
   state = {
